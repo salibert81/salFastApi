@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = salfastapi
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    salfastapi/__main__.py
